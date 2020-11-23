@@ -10,9 +10,10 @@
 
 | Widget Name             | Description                                                                  | Link                                                                           |
 |-------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Circular Liquid Battery | Shows battery level and charging/discharging in a aesthetically pleasing way | [Link](http://tracesof.net/uebersicht-widgets/#circular-liquid-battery-widget) |
+| Snowflakes              | SNOWFLAKKKKKEEEESSSS!!!!!                                                    | [Link](http://tracesof.net/uebersicht-widgets/)                                |
 | iStats                  | Shows temperature, fan speed and battery level                               | [Link](http://tracesof.net/uebersicht-widgets/#istats_widget)                  |
 | Simple Clock            | For date and time                                                            | [Link](http://tracesof.net/uebersicht-widgets/#simple-clock)                   |
+| Übersicht Calender      | Just a Calender                                                              | [Link](https://tracesof.net/uebersicht-widgets/#ubersicht-calendar)            |
 
 ## Present State
 
