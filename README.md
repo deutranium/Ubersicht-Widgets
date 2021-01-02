@@ -10,7 +10,7 @@
 
 | Widget Name             | Description                                                                  | Link                                                                           |
 |-------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Snowflakes              | SNOWFLAKKKKKEEEESSSS!!!!!                                                    | [Link](http://tracesof.net/uebersicht-widgets/)                                |
+<!-- | Snowflakes              | SNOWFLAKKKKKEEEESSSS!!!!!                                                    | [Link](http://tracesof.net/uebersicht-widgets/)                                | -->
 | iStats                  | Shows temperature, fan speed and battery level                               | [Link](http://tracesof.net/uebersicht-widgets/#istats_widget)                  |
 | Simple Clock            | For date and time                                                            | [Link](http://tracesof.net/uebersicht-widgets/#simple-clock)                   |
 | Übersicht Calender      | Just a Calender                                                              | [Link](https://tracesof.net/uebersicht-widgets/#ubersicht-calendar)            |
